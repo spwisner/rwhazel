@@ -1,5 +1,5 @@
 ---
-templateKey: scripts-page
+templateKey: generic-page
 title: Scripts
 ---
 ### Feature Scripts, Genres & Loglines:

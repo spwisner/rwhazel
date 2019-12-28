@@ -1,5 +1,5 @@
 ---
-templateKey: resume-page
+templateKey: generic-page
 title: Resume
 ---
 ### PERSONAL INFORMATION:

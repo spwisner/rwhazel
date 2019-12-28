@@ -47,21 +47,21 @@ collections:
         label: "Resume"
         name: "resume"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "resume-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "generic-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/scripts/index.md"
         label: "Scripts"
         name: "scripts"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "scripts-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "generic-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/interviews/index.md"
         label: "Interviews"
         name: "interviews"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "interviews-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "generic-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/products/index.md"

@@ -1,13 +1,10 @@
 ---
-templateKey: interviews-page
+templateKey: generic-page
 title: Interviews
 ---
 ### CONTESTS/INTERVIEWS/ETC.
 
-
-
 * American Zoetrope
-
   * Top Ten Finalist/“Original Cyn” –[Click Here To View](http://www.filmmakers.com/news/contests/article_828.shtml)
   * Semi-Finalist/“Secrets, Favors & Lies” –[Click Here to View](http://www.zoetrope.com/contests/index.cgi?show=res2)
 * Austin Film Festival/Semi-Finalist/Burt Orange/”Original Cyn” – [Click Here to View](http://messageboard.donedealpro.com/boards/archive/index.php/t-14243.html)
