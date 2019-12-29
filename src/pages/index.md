@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Robert W. Hazel
 image: /img/robert-hazel-headshot.png
-heading: Placeholder
+heading: Latest Posts
 subheading: SCREENWRITER
 mainpitch:
   title: Why Kaldi
