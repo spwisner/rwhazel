@@ -7,7 +7,7 @@ description: >-
   has submitted it to the St. Louis Filmmakers Showcase. Announcements are
   expected soon. Fingers crossed.
 featuredpost: false
-featuredimage: static/img/robert-hazel-headshot.png
+featuredimage: /img/robert-hazel-headshot.png
 tags:
   - article
 ---
