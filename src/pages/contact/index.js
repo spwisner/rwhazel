@@ -36,10 +36,20 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <div class='generic-page-wrap contact-page'>
+          <div className="container">
+            <div className="content">
+              <div className='title-wrap contact-title'>
+                <h2 className="title is-size-3 has-text-weight-bold is-bold-light" style={{ marginBottom: '0.75rem', marginTop: '0.75rem' }}>
+                  Contact
+                  </h2>
+              </div>
+            </div>
+          </div>
+        </div>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
               <form
                 name="contact"
                 method="post"
