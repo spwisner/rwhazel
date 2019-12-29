@@ -9,7 +9,7 @@ export const GenericPageTemplate = ({ title, content, contentComponent }) => {
 
   return (
     <div>
-      <div class='generic-page-wrap contact-page'>
+      <div className='generic-page-wrap contact-page'>
         <div className="container">
           <div className="content">
             <div className='title-wrap contact-title'>

@@ -9,7 +9,6 @@ import Content, { HTMLContent } from '../components/Content'
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
   tags,
   title,
   helmet,
@@ -18,7 +17,7 @@ export const BlogPostTemplate = ({
 
   return (
     <div>
-      <div class='generic-page-wrap contact-page'>
+      <div className='generic-page-wrap contact-page'>
         <div className="container">
           <div className="content">
             <div className='title-wrap contact-title'>
@@ -38,7 +37,7 @@ export const BlogPostTemplate = ({
                 {title}
               </h1>
               <PostContent content={content} />
-              {tags && tags.length ? (
+              {tags && tags.length && !!tags[0] ? (
                 <div style={{ marginTop: `4rem` }}>
                   <h4>Tags</h4>
                   <ul className="taglist">

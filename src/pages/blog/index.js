@@ -7,7 +7,7 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <div class='generic-page-wrap contact-page'>
+        <div className='generic-page-wrap contact-page'>
           <div className="container">
             <div className="content">
               <div className='title-wrap contact-title'>

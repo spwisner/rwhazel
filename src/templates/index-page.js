@@ -9,6 +9,7 @@ export const IndexPageTemplate = ({
   image,
   title,
   subheading,
+  heading
 }) => (
     <div>
       <div>
@@ -28,8 +29,8 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      Latest Posts
-                  </h3>
+                      {heading}
+                    </h3>
                     <BlogRollHome />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/blog">
