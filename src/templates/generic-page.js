@@ -9,15 +9,13 @@ export const GenericPageTemplate = ({ title, content, contentComponent }) => {
 
   return (
     <div>
-      <div class='generic-page-wrap'>
+      <div class='generic-page-wrap contact-page'>
         <div className="container">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className='title-wrap'>
-                <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                  {title}
-                </h2>
-              </div>
+          <div className="content">
+            <div className='title-wrap contact-title'>
+              <h2 className="title is-size-3 has-text-weight-bold is-bold-light" style={{ marginBottom: '0.75rem', marginTop: '0.75rem' }}>
+                {title}
+              </h2>
             </div>
           </div>
         </div>
@@ -25,7 +23,7 @@ export const GenericPageTemplate = ({ title, content, contentComponent }) => {
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-12">
               <div className="section">
                 <PageContent className="content" content={content} />
               </div>
