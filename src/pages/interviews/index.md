@@ -2,7 +2,7 @@
 templateKey: generic-page
 title: Interviews
 ---
-### CONTESTS/INTERVIEWS/ETC.
+### CONTESTS/ INTERVIEWS/ ETC.
 
 * American Zoetrope
 
