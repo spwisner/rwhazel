@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: INKTIP.COM - The Brotherhood
-date: 2019-12-29T03:54:12.674Z
+date: 2015-05-12T02:54:00.000Z
 description: >-
   Over the weekend, one of the producers on Inktip.com downloaded the synopsis,
   resume and script for "The Brotherhood"
