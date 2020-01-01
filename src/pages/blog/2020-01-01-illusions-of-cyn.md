@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Illusions Of Cyn
-date: 2020-01-01T19:32:47.412Z
+date: 2015-08-06T18:32:00.000Z
 description: >-
   The good news about the progress of [Illusions of
   Cyn](https://www.facebook.com/IllusionsofCyn) just keeps coming! (Teaser for
