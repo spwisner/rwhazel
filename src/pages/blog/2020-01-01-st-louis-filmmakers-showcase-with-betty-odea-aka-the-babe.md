@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'ST. LOUIS FILMMAKERS SHOWCASE - WITH BETTY O''DEA, AKA THE BABE'
+title: 'St. Louis Filmmakers Showcase - With Betty O''Dea, Aka The Babe'
 date: 2015-07-21T18:25:00.000Z
 description: >-
   Thanks to all who came in support of our short, "A Great First Impression"
