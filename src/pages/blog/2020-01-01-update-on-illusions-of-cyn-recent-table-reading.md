@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: UPDATE ON "ILLUSIONS OF CYN" - RECENT TABLE READING
+title: Update On "Illusions Of Cyn" - Recent Table Reading
 date: 2015-06-29T18:15:00.000Z
 description: >-
   Betty and I just returned from a weekend in Houston, where we met with the
