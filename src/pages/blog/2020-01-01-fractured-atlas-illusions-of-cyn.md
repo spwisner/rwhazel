@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Fractured Atlas & Illusions Of Cyn
-date: 2020-01-01T19:28:12.173Z
+date: 2015-07-23T18:28:00.000Z
 description: >-
   What woman wouldn’t want to be considered a femme fatale?  Who wouldn’t want
   to be THE Cigarette, Revolver, Executive or Companion?
