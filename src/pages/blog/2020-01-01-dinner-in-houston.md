@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Dinner In Houston
-date: 2020-01-01T19:16:49.877Z
+date: 2015-06-30T18:16:00.000Z
 description: >-
   Photo of The Babe, Betty O'Dea, and me while in Houston at dinner with the
   cast and production crew of Illusions of Cyn.
