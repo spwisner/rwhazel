@@ -149,8 +149,8 @@ $menu-label-color: $white-ter
   background-color: $gray;
 
 .home-image-wrap
-  display: flex;
-  justify-content: center;
+  display: block;
+  text-align: center;
   margin-top: 15px;
 
 .section 
@@ -169,6 +169,14 @@ $menu-label-color: $white-ter
 .generic-page-wrap.contact-page
   margin-top: 0 !important;
 
+.page-wrap
+  display: flex;
+  flex-direction: column;
+
+.page-content-wrap
+  flex-grow: 1;
+  min-height: 90vh;
+
 @media screen and (min-width: 1024px)
   .title-wrap.contact-title 
     margin-left: 0;
@@ -179,6 +187,9 @@ body
 
 .button.is-link, .button.is-link:hover 
   background-color: #515151;
+
+.content ul > li > p
+  margin-bottom: 0 !important
 
 p
   overflow-wrap: break-word;

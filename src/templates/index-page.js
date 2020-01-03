@@ -18,7 +18,7 @@ export const IndexPageTemplate = ({
           <div><h3 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen">{subheading}</h3></div>
         </div>
         <div className='home-image-wrap'>
-          <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} />
+          <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Robert W. Hazel" />
         </div>
       </div>
       <section className="section section--gradient">

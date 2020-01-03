@@ -67,14 +67,14 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://www.facebook.com/RWH4POTUS/" target="_blank">
+                <a title="facebook" href="https://www.facebook.com/RWH4POTUS/" target="_blank" rel="noopener noreferrer">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com/robertwhazel69" target="_blank">
+                <a title="twitter" href="https://twitter.com/robertwhazel69" target="_blank" rel="noopener noreferrer">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -82,7 +82,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="imdb" href="https://www.imdb.com/name/nm7499519/" target="_blank">
+                <a title="imdb" href="https://www.imdb.com/name/nm7499519/" target="_blank" rel="noopener noreferrer">
                   <img
                     className="fas fa-lg"
                     src={imdb}
