@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: test youtube 2
+title: test vimeo 2
 date: 2020-01-03T03:17:33.310Z
 description: test youtube 2
 featuredpost: false
@@ -8,8 +8,5 @@ featuredimage: /img/robert-hazel-headshot.png
 tags:
   - ''
 ---
-Here is the youtube:
-
-h
-
-<iframe width="560" height="315" src=https://www.youtube.com/embed/2lAe1cqCOXo frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/379879805" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/379879805">Almost Famous: Kim I Am</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
