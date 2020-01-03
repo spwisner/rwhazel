@@ -177,10 +177,19 @@ $menu-label-color: $white-ter
   flex-grow: 1;
   min-height: 90vh;
 
+.column > .section 
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+
 @media screen and (min-width: 1024px)
   .title-wrap.contact-title 
     margin-left: 0;
     padding-left: 0;
+
+  .section 
+    padding-top: 1rem !important;
+    padding-left: 0;
+    padding-right: 0;
 
 body 
   overflow: hidden;
@@ -190,6 +199,10 @@ body
 
 .content ul > li > p
   margin-bottom: 0 !important
+
+.content > form 
+  max-width: 800px;
+  width: 100%;
 
 p
   overflow-wrap: break-word;
