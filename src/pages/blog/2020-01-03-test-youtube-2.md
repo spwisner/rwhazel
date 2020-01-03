@@ -8,4 +8,6 @@ featuredimage: /img/robert-hazel-headshot.png
 tags:
   - ''
 ---
-<iframe width="560" height="315" src=https://www.youtube.com/embed/2lAe1cqCOXo frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here is the youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2lAe1cqCOXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
