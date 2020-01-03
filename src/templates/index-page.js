@@ -63,7 +63,7 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout>
+    <Layout pageTitle='Home'>
       <IndexPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}

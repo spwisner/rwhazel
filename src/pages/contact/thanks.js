@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from '../../components/Layout'
 
 export default () => (
-  <Layout>
+  <Layout pageTitle='Contact'>
     <div className='generic-page-wrap contact-page'>
       <div className="container">
         <div className="content">

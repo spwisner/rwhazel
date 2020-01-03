@@ -201,8 +201,12 @@ body
   margin-bottom: 0 !important
 
 .content > form 
-  max-width: 800px;
   width: 100%;
+
+@media screen and (min-width: 1024px)
+  .content > form 
+    width: 50%;
+
 
 p
   overflow-wrap: break-word;

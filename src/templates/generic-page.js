@@ -45,7 +45,7 @@ const GenericPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout pageTitle={post.frontmatter.title}>
       <GenericPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

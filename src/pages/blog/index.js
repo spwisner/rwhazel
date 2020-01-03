@@ -6,7 +6,7 @@ import BlogRoll from '../../components/BlogRoll'
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
-      <Layout>
+      <Layout pageTitle='Blog'>
         <div className='generic-page-wrap contact-page'>
           <div className="container">
             <div className="content">
