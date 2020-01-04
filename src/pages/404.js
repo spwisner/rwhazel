@@ -19,7 +19,7 @@ const NotFoundPage = () => (
       <div className="container">
         <div className="content">
           <p>You just hit a route that doesn&#39;t exist. Whoops...</p>
-          <img src={`${withPrefix('/')}img/404-page-image.png`} />
+          <img src={`${withPrefix('/')}img/404-page-image.png`} alt="404: Page not Found" />
         </div>
       </div>
     </section>
