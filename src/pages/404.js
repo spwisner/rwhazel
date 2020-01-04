@@ -3,7 +3,7 @@ import Layout from '../components/Layout'
 import { withPrefix } from 'gatsby'
 
 const NotFoundPage = () => (
-  <Layout pageTitle='Page Not Found'>
+  <Layout pageTitle='Page Not Found' customOGImage={`${withPrefix('/')}img/404-page-image.png`}>
     <div className='generic-page-wrap contact-page'>
       <div className="container">
         <div className="content">
