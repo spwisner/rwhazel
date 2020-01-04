@@ -94,6 +94,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+        <a className="built-by" href="https://www.stevewisner.com">&copy; Steve Wisner</a>
       </footer>
     )
   }
