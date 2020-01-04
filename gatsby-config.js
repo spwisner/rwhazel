@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Robert W. Hazel',
     description:
-      'The personal website of Robert W. Hazel',
+      'The official website of Robert W. Hazel',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

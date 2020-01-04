@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
+const fontWeight = '700'
+
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
@@ -58,22 +60,22 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/">
+              <Link className="navbar-item" to="/" activeStyle={{ fontWeight: fontWeight }}>
                 Home
               </Link>
-              <Link className="navbar-item" to="/resume">
+              <Link className="navbar-item" to="/resume" activeStyle={{ fontWeight: fontWeight }}>
                 Resume
               </Link>
-              <Link className="navbar-item" to="/scripts">
+              <Link className="navbar-item" to="/scripts" activeStyle={{ fontWeight: fontWeight }}>
                 Scripts
               </Link>
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item" to="/blog" activeStyle={{ fontWeight: fontWeight }}>
                 Blog
               </Link>
-              <Link className="navbar-item" to="/interviews">
+              <Link className="navbar-item" to="/interviews" activeStyle={{ fontWeight: fontWeight }}>
                 Interviews
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item" to="/contact" activeStyle={{ fontWeight: fontWeight }}>
                 Contact
               </Link>
             </div>

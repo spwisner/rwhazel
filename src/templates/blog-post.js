@@ -15,6 +15,12 @@ export const BlogPostTemplate = ({
 }) => {
   const PostContent = contentComponent || Content
 
+  const handleBackClick = () => {
+    if (typeof window !== 'undefined') {
+      window.history.back()
+    }
+  }
+
   return (
     <div>
       <div className='generic-page-wrap contact-page'>
@@ -37,6 +43,7 @@ export const BlogPostTemplate = ({
                 {title}
               </h1>
               <PostContent content={content} />
+              <div class="back-btn" onClick={handleBackClick}>Back</div>
               {tags && tags.length && !!tags[0] ? (
                 <div style={{ marginTop: `4rem` }}>
                   <h4>Tags</h4>
