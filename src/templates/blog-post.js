@@ -11,7 +11,9 @@ export const BlogPostTemplate = ({
   contentComponent,
   tags,
   title,
+  timeToRead,
   helmet,
+  date,
 }) => {
   const PostContent = contentComponent || Content
 
@@ -39,11 +41,14 @@ export const BlogPostTemplate = ({
         <div className="container content">
           <div className="columns">
             <div className="column is-12">
-              <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                {title}
-              </h1>
+              <div>
+                <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                  {title}
+                </h1>
+              </div>
+              <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1em' }}><h4 style={{ padding: 0, margin: 0 }}>{date}</h4> <span style={{ paddingLeft: '5px', fontStyle: 'italic' }}>- {timeToRead} min read</span></div>
               <PostContent content={content} />
-              <div class="back-btn" onClick={handleBackClick}>Back</div>
+              <div className="back-btn" onClick={handleBackClick}>Back</div>
               {tags && tags.length && !!tags[0] ? (
                 <div style={{ marginTop: `4rem` }}>
                   <h4>Tags</h4>
@@ -92,6 +97,8 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        timeToRead={post.timeToRead}
+        date={post.frontmatter.date}
       />
     </Layout>
   )
@@ -107,15 +114,17 @@ export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      id
-      html
-      frontmatter {
-        date(formatString: "MMMM DD, YYYY")
-        title
-        description
-        tags
-      }
+  markdownRemark(id: {eq: $id}) {
+    id
+    html
+    frontmatter {
+      date(formatString: "MMMM DD, YYYY")
+      title
+      description
+      tags
     }
+    timeToRead
   }
+}
+
 `

@@ -13,15 +13,25 @@ const TagsPage = ({
   },
 }) => (
     <Layout pageTitle='Tags'>
+      <div className='generic-page-wrap contact-page'>
+        <div className="container">
+          <div className="content">
+            <div className='title-wrap contact-title'>
+              <h2 className="title is-size-3 has-text-weight-bold is-bold-light" style={{ marginBottom: '0.75rem', marginTop: '0.75rem' }}>
+                Tags
+          </h2>
+            </div>
+          </div>
+        </div>
+      </div>
       <section className="section">
         <Helmet title={`Tags | ${title}`} />
         <div className="container content">
           <div className="columns">
             <div
-              className="column is-10 is-offset-1"
+              className="column is-12"
               style={{ marginBottom: '6rem' }}
             >
-              <h1 className="title is-size-2 is-bold-light">Tags</h1>
               <ul className="taglist">
                 {group.map(tag => (
                   <li key={tag.fieldValue}>
