@@ -19,12 +19,12 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description (SEO)", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean", default: false}
-      - {label: "Featured Image", name: "featuredimage", widget: image, default: "/img/robert-hazel-headshot.png"}
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "SEO - Copy and paste first sentence of 'Body' Section here", name: "description", widget: "text", default: ""}
+      - {label: "Featured Post (Select to highlight on homepage)", name: "featuredpost", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "featuredimage", widget: image, default: "/img/robert-hazel-headshot.png"}
       - {label: "Tags", name: "tags", widget: "list",  default: [""]}
 
   - name: "pages"
