@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The Great Cancer Adventure
+title: The Great Cancer Adventure - 10/26/2017
 date: 2017-10-26T19:40:00.000Z
 description: >-
   Except for the time The Champ and I climbed Mt. Kilimanjaro, where altitude
