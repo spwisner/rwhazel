@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-date: 2020-01-19T19:28:53.144Z
+date: 2018-01-17T19:28:00.000Z
 title: The Great Cancer Adventure Continues....
 description: >-
   After having a PT scan denied at the last minute by the new health insurance
