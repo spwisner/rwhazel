@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql } from 'gatsby'
+import { Link, graphql, withPrefix } from 'gatsby'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Layout from '../components/Layout'
 
@@ -9,7 +9,7 @@ export default class BlogList extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <Layout pageTitle='Blog'>
+      <Layout pageTitle='Blog' customOGImage={`${withPrefix('/')}img/robert-hazel-headshot`}>
         <div className='generic-page-wrap contact-page'>
           <div className="container">
             <div className="content">

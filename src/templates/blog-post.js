@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import { graphql, Link } from 'gatsby'
+import { graphql, Link, withPrefix } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -81,7 +81,7 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout pageTitle={post.frontmatter.title}>
+    <Layout pageTitle={post.frontmatter.title} customOGImage={`${withPrefix('/')}img/robert-hazel-headshot`}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
