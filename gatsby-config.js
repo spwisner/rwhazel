@@ -3,10 +3,12 @@ module.exports = {
     title: 'Robert W. Hazel',
     description:
       'The official website of Robert W. Hazel',
+    siteUrl: 'https://www.robertwhazel.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    'gatsby-plugin-sitemap',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
