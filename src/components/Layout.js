@@ -14,6 +14,18 @@ const TemplateWrapper = ({ children, pageTitle, customOGImage }) => {
       <Helmet>
         <html lang="en" />
         <title>{metaTitle}</title>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157019918-1"></script>
+        <script>
+
+          {`window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-157019918-1');
+          `}
+
+        </script>
+        
         <meta name="description" content={description} />
         <link
           rel="apple-touch-icon"
