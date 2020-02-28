@@ -12,7 +12,7 @@ description: >-
   placed on that side during the procedure), so I was not surprised when told
   that several biopsy specimens had been taken, all of which looked like cancer,
   though this was subject to verification by a pathologist.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/robert-hazel-headshot.png
 tags:
   - The Great Cancer Adventure Book
@@ -46,8 +46,6 @@ I don’t know how this will end, other than that I will play this all the way o
 > (Facebook post from my son, Peter, today.)
 >
 > “Please keep my Dad in your thoughts and feel free to send any good wishes you may want his way. He's my biggest influence and the reason I've become the man I am today (for better or worse, har!). So even if you've never met please send encouragement via FB, it would mean a great deal to me.”
-
-
 
 ##### 10/2/2017
 
@@ -115,7 +113,7 @@ Next steps, after tomorrow, are 1.) Labs and Oncology Doc on Friday the 17th, to
 
 This has been a difficult journey to date, and it's not over yet, as there may need to be a second round of something, but we'll know more in a couple of months, after that testing. In the meantime, I need to make arrangements to have my port flushed every four-six weeks, to make certain it works since the plan is to keep that in my chest and neck for at least two years. Coming full circle, the Oncology Doc said that if I make the two-year mark, the prognosis is good for five or more, and that’s the short-term goal for now. Two-years.  Better than the alternative, which again is 6-12 months. This uncertainty might change some retirement plans, such as travel with Betty and the kids, but I think I can adjust. Priorities change.
 
-##### 11-27-2019        
+##### 11-27-2017
 
 As noted previously, I finished 28 radiation sessions on Friday 11/10 and six chemo sessions (this round, anyway) on Wednesday 11/8, and have now had two weeks in which to recover, which frankly has been the most difficult part; again, Betty and I are so very grateful that we were warned this is a grind and that treatment continues to wear even after it’s completed.
 
@@ -129,7 +127,7 @@ In a couple of weeks or so, Betty and I are headed to Houston for a Cast/Crew sh
 
 Life goes on. The adventure continues.
 
-##### 12-5-2017         
+##### 12-5-2017
 
 Regarding the 11-27 reference to hospitalization….
 
@@ -137,12 +135,11 @@ I didn't know it possible to have both diarrhea and constipation at the same tim
 
 I knew from that experience and others I desperately needed to drink electrolyte, but could  not tolerate even dilute Gatorade due to the scarring done by radiation.  So, after speaking with the Oncologist's office, I went to the Emergency Room.  They tried some medical treatments I could tolerate, but none of that worked, so the Family Medicine Resident on-call removed the impacted bowel by hand, bit by bit.  She seemed to think this went with the territory, that this was just another day at the office and, frankly, not her first rodeo, but I thought this a waste of her training, although a welcome source of relief.  And also embarrassed the problem was addressed in the fashion it was.  All too soon, however, there was to be another medical problem.
 
-##### 12-16-2017        
+##### 12-16-2017
 
 Been a busy week.  We left on Monday for Houston for a Cast & Crew showing of “Illusions of Cyn”, made from one of my scripts; without a doubt the very best truly independent film I’ve seen. What a talented group of people. So fortunate to have been a part of this.  These are all independent film people.  Robert Redford is an independent film person, but no one involved in this project is Robert Redford, including me, but all of them have serious film credits.
 
-Unfortunately, however, on the way home Wednesday, somehow I popped my artificial hip out of joint and spent a couple of days in the hospital there in Houston. Very discouraged to be certain, perhaps especially with this pesky cancer thing, but we are home, I’m watching the 
-English Premier League with Mike O’Dea, Betty’s brother, and I’m seeing my orthopedic surgeon on Monday. Almost certainly I'll miss some work at the very busiest time when I'm trying to wind down to retirement.
+Unfortunately, however, on the way home Wednesday, somehow I popped my artificial hip out of joint and spent a couple of days in the hospital there in Houston. Very discouraged to be certain, perhaps especially with this pesky cancer thing, but we are home, I’m watching the  English Premier League with Mike O’Dea, Betty’s brother, and I’m seeing my orthopedic surgeon on Monday. Almost certainly I'll miss some work at the very busiest time when I'm trying to wind down to retirement.
 
 In Houston, I was fitted for a brace that went over my hips and down my right leg and made my way with a walker.  At the airport coming home, I was in a wheelchair and one of the TSA Agents wanted to refuse me entry, but his supervisor who had coincidentally just had training about this very same situation, so perhaps it's not all that uncommon after all, took over and I breezed through.  SWA was amazingly accommodating and not just because they had to be by federal law, but they were required to be by federal law to be accommodating, e.g., seat me first, at least in my case.
 
@@ -150,13 +147,13 @@ The first evening at home, after Betty got me some oversized pants, Betty and I 
 
 I started off sleeping in the guest bedroom (my doing) as I need to sleep on my back because of the hip injury.  I’ve tried to position myself to where I can sleep that way, but so far it’s only been an hour and a half at most at any one time, so I am exhausted.  I have a productive cough (an oxymoron if ever there was one!) in that I am coughing up all manner of yucky (a medical term!) stuff.  I have this from time to time and have been tested for TB, cancer, pneumonia and pretty much everything else with no resolution (my allergist thinks it might even be allergies and/or “merely” sinus drainage from chronic sinusitis), but in any event, so that she could sleep, Betty’s in one bedroom and I am in another.  Or at least we tried that for a while before she moved in with me.  Intimacy is important for couples of course, but so is nearness and touching.  I think I might have found a sweet spot for my head and neck that might allow for a little more deep sleep for both of us.  It’s worked for a few nights now, so I am hopeful.
 
-##### 12-18-2017        
+##### 12-18-2017
 
 Having returned from seeing the STL orthopedic surgeon, who was able to have his tech guy insert those little screws where they needed to be, I’m going to be doing 4-6 weeks of PT to build up my hip, resulting from the artificial hip dislocation.  He desperately wants to avoid surgery. Perhaps I was not sufficiently careful, which resulted in the injury, but the OS Doc said that there are studies that suggest chemo might have exacerbated matters. I do need to be ready for the next round of chemo, so I’ll work hard on the PT. The Adventure continues.
 
 Essentially all my chores and other matters have fallen on Betty, so if you wish to help me/us, then ask her what assistance she needs. I cannot imagine doing this alone. She truly is The Champ.
 
-##### 12/26/2017        
+##### 12/26/2017
 
 Had the first of the PT sessions on the 21st, but unfortunately due the holidays, etc. the second of these will not be until Tuesday 1/2, but the pace rolls on from there. 
 
