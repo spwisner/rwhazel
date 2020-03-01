@@ -17,7 +17,7 @@ featuredimage: /img/robert-hazel-headshot.png
 tags:
   - The Great Cancer Adventure Book
 ---
-# The Great Cancer Adventure
+## The Great Cancer Adventure
 
 ### Chapter One - The Hammer Falls (September-December, 2017)
 
