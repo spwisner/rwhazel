@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 date: 2020-02-28T04:39:56.848Z
-title: 'Chapter One - The Hammer Falls (September-December, 2017)'
+title: 'Chapter One - The Hammer Falls (September - December, 2017)'
 description: >-
   I discovered quite by accident and coincidence just last week that I have
   cancer.  My urologist was looking for something in my bladder that wasn’t
