@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 date: 2020-03-01T04:57:59.835Z
-title: Chapter Two – Minimal Residual Disease
+title: Chapter Two – Minimal Residual Disease (January – May 2018)
 description: >-
   For New Year's Eve, Betty and I met her brother Mike for dinner, and when I
   went to the toilet afterward, plodding along on my walker, I felt what turned
