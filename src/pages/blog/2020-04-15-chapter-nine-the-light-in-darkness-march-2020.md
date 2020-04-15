@@ -24,8 +24,6 @@ Yesterday, our granddaughter turned six, and today her mother turned 40. I slept
 
 We’re about to leave for CTCA and the next round of chemo, etc., which was to have been followed by a carefully orchestrated effort to see The Champ off on her Great Nile River Cruise Adventure, aka her “float trip.” We were scheduled to return on Thursday evening or Friday afternoon (dependent on whether we spent the night there at Zion), and, having arranged my appointments for early in the day, we expected to have her unplug me from the chemo early Saturday morning in time for her to catch an airplane for Chicago early that afternoon, overnight at O’Hare and then fly out Sunday morning for Cairo and other exotic points, in the company of niece Katie. But the coronavirus pandemic (and it is one, even if it has not been “officially” labelled a pandemic at this point) resulted in the Egyptian government cancelling all such Nile River cruises. She and Katie are disappointed that they will not be making this trip, at least not for a while yet, and I’m disappointed The Champ wasn’t able to get away from the Sick Guy for a while. Those two women, however, are looking into alternatives, so they may be going somewhere this month or next after all. (Flash: Katie was able to find some tours in/around Cairo and also some tours in/around Ankara and other points in that part of the world, so they are going after all! Women, perhaps especially American women, are simply fascinating, amazing creatures!)
 
-
-
 ##### 3/11/2020
 
 Long before The Champ’s “float trip” got cancelled and she and niece, Katie, made alternative plans, I’d mentioned I might like to go to Le Mans one more time before I head for the Great Pit Stop in the Sky.
